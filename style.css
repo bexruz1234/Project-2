@@ -1,0 +1,51 @@
+body{
+    background-color:antiquewhite;
+    width: 1440px;
+    height: 1280px;
+}
+.div1{
+    position:absolute;
+    background-color:hsl(0, 0%, 100%);
+    top: 100px;
+    left: 30%;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 25px;
+}
+.div2{
+    display: block;
+}
+p{
+    font-size: 16px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: hsl(24, 5%, 18%);
+}
+img{
+    height: 240px;
+    width: 100%;
+    border-radius: 10px;
+}
+.prp{
+    background-color: hsl(330, 100%, 98%);
+}
+h3{
+    color: darkmagenta;
+}
+h2{
+    color:hsl(14, 45%, 36%);
+}
+.hm{
+    color: hsl(14, 45%, 36%);
+    right:20%;
+}
+.div1 th{
+    position: relative;
+    left: 300px;
+    flex-direction: column;
+}
+.attribution{
+    position: relative;
+    text-align: end;
+}
